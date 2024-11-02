@@ -10,7 +10,7 @@ export const DATA = {
   description:
     "Student turned Developer. I love building things and helping people. Very active on LinkedIn.",
   summary:
-    "At the end of 2023, I hold a bachelor's degree in Mathematics (2023) and am currently pursuing my MCA. My journey includes personal projects, competing in 2 hackathons, and an ongoing interest in learning DSA.",
+    "At the end of 2023, I hold a bachelor's degree in Mathematics (2023) and am currently pursuing my MCA. My journey includes personal projects, competing in 1 hackathons, and an ongoing interest in learning DSA.",
   avatarUrl: "/me.jpg",
   skills: [
     "React",
